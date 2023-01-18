@@ -1,0 +1,35 @@
+{
+    "usuario" : [
+        {   
+            "id": 1,
+            "usuario": "Horus",
+            "email": "horus2022@oculus.com",
+            "password": "123abc"
+        }
+    ],
+    "grafica": [
+        {
+            "Zeus": 2700,
+            "Poseidon": 2000,
+            "Hades": 1400,
+            "Atenea": 1350,
+            "Apolo": 1123
+        },
+        {
+            "Odin": 2700,
+            "Freya": 1500,
+            "Loki": 2600,
+            "Thor": 2700,
+            "Frigg": 1500,
+            "Heimdall": 1000
+        },
+        {
+            "Ra": 2700,
+            "Osiris": 2500,
+            "Horus": 2500,
+            "Isis": 2400,
+            "Anubis": 2400
+        }
+    ]
+}
+    
